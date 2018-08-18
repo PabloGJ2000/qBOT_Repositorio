@@ -3,7 +3,7 @@
 ## Información
 * Autor: Pablo García Jaén (twitter: [@pablogarciajaen](https://twitter.com/PabloGarciaJaen)  )
 * Web: http://qbotproject.com/
-* Licencia: Creative Common CC BY-SA
+* Licencia: Creative Common CC BY-NC-SA
 
 ## Materiales
 | Artículo                        | Cantidad *(1)*** | Precio/unidad *(2)*** | Envío*(2)*** | Total*(2)*** | Link*(3)***                                                  |
