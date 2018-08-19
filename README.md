@@ -4,6 +4,9 @@
 * Autor: Pablo García Jaén (twitter: [@pablogarciajaen](https://twitter.com/PabloGarciaJaen)  )
 * Web: http://qbotproject.com/
 * Licencia: Creative Common CC BY-NC-SA 
+* Programas utilizados:
+   -Diseño 3D: FreeCad 0.17
+   -Código: Arduino IDE
 
 ## Materiales
 | Artículo                           | Cantidad* |
