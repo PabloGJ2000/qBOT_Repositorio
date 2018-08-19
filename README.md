@@ -5,8 +5,8 @@
 * Web: http://qbotproject.com/
 * Licencia: Creative Common CC BY-NC-SA 
 * Programas utilizados:
-   -Diseño 3D: FreeCad 0.17
-   -Código: Arduino IDE
+*   -Diseño 3D: FreeCad 0.17
+*   -Código: Arduino IDE
 
 ## Materiales
 | Artículo                           | Cantidad* |
