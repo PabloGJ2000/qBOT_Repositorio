@@ -66,7 +66,7 @@ CaraA.1_Pieza3.stl
 
 1. Pega las piezas *CaraA.1_Pieza1.stl* y *CaraA.1_Pieza2.stl*.
 
-![](E:\qBOT\Documentacion\A.1\Paso1.png)
+![](Imagenes\Pasos_A\Paso1.png)
 
 2. Introduce el tornillo del eje por el aspa del servo
 
