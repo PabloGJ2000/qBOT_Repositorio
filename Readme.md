@@ -66,19 +66,19 @@ CaraA.1_Pieza3.stl
 
 1. Pega las piezas *CaraA.1_Pieza1.stl* y *CaraA.1_Pieza2.stl*.
 
-![](Imagenes\Pasos_A\Paso1.png)
+![](Imagenes/Pasos_A/Paso1.png)
 
 2. Introduce el tornillo del eje por el aspa del servo
 
-![](E:\qBOT\Documentacion\A.1\Paso2.png)
+![](Imagenes/Pasos_A/Paso2.png)
 
 3. Atornilla la pieza blanca del servo a *CaraA.1_Pieza3.stl*
 
-![](E:\qBOT\Documentacion\A.1\Paso3.png)
+![](Imagenes/Pasos_A/Paso3.png)
 
 4. Introduce el iman de neodimio y los pines hembra en sus correspondientes orificios
 
-![](E:\qBOT\Documentacion\A.1\Paso4.png)
+![](Imagenes/Pasos_A/Paso4.png)
 
 5. Suelda los pines hembra siguiendo el siguiente esquemático
 
@@ -90,15 +90,15 @@ IMAGEN POR PONER
 
 6. Introduce el Servo en su hueco
 
-![](E:\qBOT\Documentacion\A.1\Paso6.png)
+![](Imagenes/Pasos_A/Paso6.png)
 
 7. Atornilla el Servo
 
-![](E:\qBOT\Documentacion\A.1\Paso7.png)
+![](Imagenes/Pasos_A/Paso7.png)
 
 8. Atornilla las dos partes con el tornillo del eje
 
-![](E:\qBOT\Documentacion\A.1\Paso8.png)
+![](Imagenes/Pasos_A/Paso8.png)
 
 9. Repite el mismo proceso hasta tener las caras A.1 A.2 y A.3. Los archivos 3D son los mismos para las 3 caras. 
 
