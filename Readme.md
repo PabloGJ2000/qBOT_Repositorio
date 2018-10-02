@@ -36,12 +36,19 @@
 ![](Imagenes/Pasos_A/A.1%20Vista%20General.png)
 #### 	Archivos 3D:
 
-CaraA.1_Pieza1.stl
+Haz click para descargarlas
 
-CaraA.1_Pieza2.stl
+- [CaraA.1_Pieza1.stl](https://github.com/PabloGarciaJaen/qBOT_Repositorio/blob/master/Archivos%203D/CaraA.1_Pieza1.stl)
 
-CaraA.1_Pieza3.stl
+- [CaraA.1_Pieza2.stl](https://github.com/PabloGarciaJaen/qBOT_Repositorio/blob/master/Archivos%203D/CaraA.1_Pieza2.stl)
 
+- [CaraA.1_Pieza3.stl](https://github.com/PabloGarciaJaen/qBOT_Repositorio/blob/master/Archivos%203D/CaraA.1_Pieza3.stl)
+
+
+
+//Nota_1: Los archivos están optimizados para una correcta impresión 3D sin soportes
+
+//Nota_2: Es posible que algunas tengas que quitar el hueco para los tornillos o limar algunas partes.
 
 
 //Nota_1: Los archivos están optimizados para una correcta impresión 3D sin soportes
