@@ -236,6 +236,13 @@ Haz click para descargarlas
 `Parte 4: Brazos`
 
 `Parte 5: Electrónica`
+1. Suelda toda la electrónica siguiendo el siguiente esquemñatico
+!![](Imagenes/Electronica_editada.png)
+
+`Parte 5: Programación`
+1. Compila y sube el siguiente código en tu Arduino (cada uno en su respectivo qBOT)
+[Code_BLUE.ino](https://github.com/PabloGarciaJaen/qBOT_Repositorio/blob/master/Code_BLUE_/Code_BLUE_.ino)
+[Code_ORANGE.ino](https://github.com/PabloGarciaJaen/qBOT_Repositorio/blob/master/Code_ORANGE/Code_ORANGE.ino)
 
 #### 
 
