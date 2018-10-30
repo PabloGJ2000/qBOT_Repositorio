@@ -229,29 +229,35 @@ Haz click para descargarlas
 
 
 
-
-
 `Parte 3: Ejes`
 
-`Parte 4: Brazos`
+1. Pegamos el soporte del potenciometro y el potenciometro. Después introducimos los 2 engranajes.
 
-`Parte 5: Electrónica`
+![](Imagenes/Ejes/Ejes_1.png)
+
+2. Atornillamos los ejes al cuerpo.
+
+![](Imagenes/Ejes/Ejes_2.png)
+
+3. Repetimos este paso con las 3 caras del cubo.
+
+
+
+`Parte 4: Electrónica`
 1. Suelda toda la electrónica siguiendo el siguiente esquemñatico
 !![](Imagenes/Electronica_editada.png)
+
+
 
 `Parte 5: Programación`
 1. Compila y sube el siguiente código en tu Arduino (cada uno en su respectivo qBOT)
 [Code_BLUE.ino](https://github.com/PabloGarciaJaen/qBOT_Repositorio/blob/master/Code_BLUE_/Code_BLUE_.ino)
 [Code_ORANGE.ino](https://github.com/PabloGarciaJaen/qBOT_Repositorio/blob/master/Code_ORANGE/Code_ORANGE.ino)
 
-#### 
 
 
-
-`Paso 4`
-
-Carga el programa en tu Arduino Nano y comienza a cacharrear!
-
-`Paso 5`
-
+`Parte 6: Comparte`
 Personaliza tu qBOT y súbelo para que los demás usuarios lo repliquen y lo disfruten.
+
+
+
