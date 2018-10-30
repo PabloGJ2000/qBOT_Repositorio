@@ -12,13 +12,14 @@
 | GearMotor N20                      | 3         |
 | Acoplamiento para el eje N20 (3mm) | 3         |
 | GearMotor N20 Eje m4               | 3         |
-| Servo sg90 (TowerPro)              | 3         |
-| Aspa servo SG90                    | 1         |
+| Servo Analog SUMO1109              | 3         |
+| Aspas Servo                        | 3         |
 | Imán Neodimio N42 9x3mm            | 6         |
 | Pin Macho (4 pines juntos)         | 3         |
 | Pin Hembra (4 pines juntos)        | 12        |
 | Driver de motores SN754410         | 3         |
-| Potenciometro                      | 3         |
+| Extensor de pines MCP23008         | 1         |
+| Potenciometro 10k                  | 3         |
 | Tornillería                        | -         |
 | 3D                                 | -         |
 
@@ -54,8 +55,8 @@ Haz click para descargarlas
 
 | Componente                  | Cantdidad |
 | --------------------------- | --------- |
-| Servo sg90 (TowerPro)       | 1         |
-| Aspa servo SG90             | 1         |
+| Servo Analog SUMO1109       | 1         |
+| Aspa servo                  | 1         |
 | Imán Neodimio N42 9x3mm     | 1         |
 | Pin Hembra (4 pines juntos) | 3         |
 | Tornillo eje servo          | 1         |
