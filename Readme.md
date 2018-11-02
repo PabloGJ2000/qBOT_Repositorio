@@ -4,6 +4,7 @@
 * Autor: Pablo García Jaén (twitter: [@pablogarciajaen](https://twitter.com/PabloGarciaJaen)  )
 * Web: http://qbotproject.com/
 * Licencia: Creative Common CC BY-NC-SA 
+* qBOT está basado en los Nanobots de la película Big Hero 6.
 
 ## Materiales
 | Artículo                           | Cantidad* |
